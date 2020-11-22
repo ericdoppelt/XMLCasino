@@ -5,9 +5,6 @@ This project implements a player for multiple data-driven, card-based games.
 
 Names: Max Smith, Eric Doppelt
 
-[Website](http://casino308.com/)
-
-
 ### Timeline
 
 Start Date: March 30
