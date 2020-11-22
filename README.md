@@ -111,7 +111,7 @@ Extra credit:
 
 ### Impressions
 
-Overall, we found this project to be interesesting, fun, and enriching! We specifically enjoyed the ability to pick our own game genre. Since we both love poker, it was definitely more enjoyable to code in a genre that we knew a lot about and felt passionate about.
+Overall, we found this project to be interesting, fun, and enriching! We specifically enjoyed the ability to pick our own game genre. Since we both love poker, it was definitely more enjoyable to code in a genre that we knew a lot about and felt passionate about.
 
 Additionally, we were grateful that we were able to choose our own partners. We found that we were able to create a postive and collaborative culture in our team, and this was mainly predicated on our existing friendship. Due to the remote aspect of the COVID crisis, we further felt that it generally made the project run smoother. 
 
